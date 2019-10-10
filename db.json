@@ -3,7 +3,7 @@
       "uniqueCustomers":1.23,
       "visitsPerCustomer":2.86,
       "averageBasketSize":2.22,
-      "spent":100.00,
+      "budgetSpent":100.00,
       "loyaltySignups":1,
       "loyaltyPurchases":10,
       "impressions":10,
