@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "uniqueCustomers":1.23,
+   "visitsPerCustomer":2.86,
+   "averageBasketSize":2.22,
+   "spent":100.00,
+   "loyaltySignups":1,
+   "loyaltyConversionPercent":0.10,
+   "impressions":10,
+   "costPerImpression":1.22,
+   "revenueGenerated":122.00
 }
